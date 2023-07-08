@@ -2,12 +2,13 @@
 <!---
 N1kf3/N1kf3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->![Home](https://github.com/N1kf3/N1kf3/assets/105322440/61912e53-7357-478a-b102-9a823d8eaed9)
 
-![Systems and technology programming company logo](https://github.com/N1kf3/N1kf3/assets/105322440/eb855b9e-66f0-435c-b342-0d474fc36894)
 
-<img  align="center" src="https://github.com/N1kf3/N1kf3/assets/105322440/eb855b9e-66f0-435c-b342-0d474fc36894" alt="WA" width="100%" />
+<!--![Systems and technology programming company logo](https://github.com/N1kf3/N1kf3/assets/105322440/eb855b9e-66f0-435c-b342-0d474fc36894)
 
+<img  align="center" src="https://github.com/N1kf3/N1kf3/assets/105322440/eb855b9e-66f0-435c-b342-0d474fc36894" alt="WA"  />-->
+<img  align="center" src="https://github.com/N1kf3/N1kf3/assets/105322440/61912e53-7357-478a-b102-9a823d8eaed9" alt="WA"  />
 
 <h1 align="center">Hi 👋, I'm Wilfredo Andrade!</h1>
 <p>
