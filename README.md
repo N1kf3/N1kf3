@@ -5,12 +5,12 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Wilfredo Andrade!</h1>
 I'm from Caracas Venezuela, I'm a Mechanical Engineer, I had a previus interest in programming but it was there where I got hooked.
-
-The fisrt lenguage I learnd was Pascal but from there I learned C++ for my thesis and python as a hobby to learn new things, now im mastering web development with HTML5, CSS3 and JavaScript, rigth now im starting to look for a framework in that area so I can keep developing my skills and tie everithing with python so I can do backend development also
+<br/>
+The fisrt lenguage I learnd was Pascal but from there I learned C++ for my thesis and python as a hobby to learn new things, now im mastering web development with HTML5, CSS3, JavaScript and ReactJs at the Front End and with Python and Flask at the Back End i graduated from 4GeeksAcademy rigth now I'm starting to look for a new challenges so I can keep developing my skills.
 
 - 👨‍💻 All of my projects are available here on Github, but I'm looking to upload some projects to the cloud
 
-- 📫 How to reach me **Wilfredo.andrade92@gmail.com**
+- 📫 How to reach me **Wilfredo.andrade92@gmail.com** / **https://www.linkedin.com/in/wilfredo-andrade**
 
 
 
