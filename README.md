@@ -2,15 +2,11 @@
 <!---
 N1kf3/N1kf3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->![Home](https://github.com/N1kf3/N1kf3/assets/105322440/61912e53-7357-478a-b102-9a823d8eaed9)
+--->
 
+<img  align="center" src="https://github.com/N1kf3/N1kf3/assets/105322440/a7ea8189-eb19-4bd3-b75e-cd630550d17a" alt="WA"  />
 
-<!--![Systems and technology programming company logo](https://github.com/N1kf3/N1kf3/assets/105322440/eb855b9e-66f0-435c-b342-0d474fc36894)
-
-<img  align="center" src="https://github.com/N1kf3/N1kf3/assets/105322440/eb855b9e-66f0-435c-b342-0d474fc36894" alt="WA"  />-->
-<img  align="center" src="https://github.com/N1kf3/N1kf3/assets/105322440/61912e53-7357-478a-b102-9a823d8eaed9" alt="WA"  />
-
-<h1 align="center">Hi 👋, I'm Wilfredo Andrade!</h1>
+<h2 align="center">Hi 👋, I'm Wilfredo Andrade!</h2>
 <p>
  I'm from Caracas Venezuela, I'm a Mechanical Engineer, I had a previus interest in programming but it was there where I got hooked.
 </p>
