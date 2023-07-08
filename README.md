@@ -3,6 +3,9 @@
 N1kf3/N1kf3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Systems and technology programming company logo](https://github.com/N1kf3/N1kf3/assets/105322440/eb855b9e-66f0-435c-b342-0d474fc36894)
+
 <h1 align="center">Hi 👋, I'm Wilfredo Andrade!</h1>
 <p>
  I'm from Caracas Venezuela, I'm a Mechanical Engineer, I had a previus interest in programming but it was there where I got hooked.
