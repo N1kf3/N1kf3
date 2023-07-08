@@ -3,7 +3,7 @@
 N1kf3/N1kf3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<img  align="center" src="https://github.com/N1kf3/N1kf3/assets/105322440/eb855b9e-66f0-435c-b342-0d474fc36894" alt="WA" width="100" />
 ![Systems and technology programming company logo](https://github.com/N1kf3/N1kf3/assets/105322440/eb855b9e-66f0-435c-b342-0d474fc36894)
 
 <h1 align="center">Hi 👋, I'm Wilfredo Andrade!</h1>
