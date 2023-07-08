@@ -14,7 +14,10 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **Wilfredo.andrade92@gmail.com** / **https://www.linkedin.com/in/wilfredo-andrade**
 
-
+| Heading 1 | Heading 2 | Heading 3 |
+| --------- | --------- | --------- |
+| some text | more here | and this |
+| some more | this too | and this |
 
 
 <h3 align="left">Languages and Tools:</h3>
